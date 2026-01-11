@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "まぼろしの行方",
+  "base_artist": "ヰ世界情緒",
+  "createdAt": "2026-01-11T06:25:16.404782Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "まぼろしの行方",
+      "artist": "ヰ世界情緒",
+      "has_synced": false,
+      "path": "select/pl_01_まぼろしの行方_ヰ世界情緒.txt"
+    }
+  ]
+}
